@@ -1,6 +1,6 @@
-# Turborepo Tailwind CSS starter
+# Turborepo Tailwind CSS 테스트 프로젝트
 
-This is an official starter Turborepo.
+Turborepo Tailwind 기본 템플릿 프로젝트
 
 ## Using this example
 
